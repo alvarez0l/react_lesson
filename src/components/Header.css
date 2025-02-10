@@ -1,0 +1,8 @@
+.navbar {
+    display: flex;
+    background-color: rgb(90, 90, 90);
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
